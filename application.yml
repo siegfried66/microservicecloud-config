@@ -9,6 +9,6 @@ spring:
     name: microservicecloud-config-demo-dev
 ---
 spring:
-  profiles: test   #开发环境
+  profiles: test   #测试环境
   application: 
     name: microservicecloud-config-demo-test
